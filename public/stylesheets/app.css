@@ -1,0 +1,49 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Sans&display=swap');
+
+body {
+    font-family:'Fira Sans', sans-serif;
+}
+
+#cluster-map {
+    width: 100%;
+    height: 500px;
+}
+
+#map {
+    width: 100%;
+    height: 300px;
+}
+
+#card-body {
+    background: rgba( 195, 217, 242, 0.7 );
+    box-shadow: 0 8px 32px 0 rgba( 31, 38, 135, 0.37 );
+    backdrop-filter: blur( 4px );
+    -webkit-backdrop-filter: blur( 4px );
+    border-radius: 10px;
+    border: 1px solid rgba( 255, 255, 255, 0.18 );
+}
+
+#img-show {
+    max-height: 400px;
+}
+
+#login:hover {
+    color: darkolivegreen;
+}
+
+#logout {
+    color: goldenrod;
+} 
+
+#logout:hover {
+    color: aliceblue;
+}
+
+#title {
+    text-align: center;
+    padding: 40px;
+}
+
+
+
+
